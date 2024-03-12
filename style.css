@@ -1,0 +1,46 @@
+/* Insert any CSS code below here */
+
+body{
+  font-size: 20px;
+  color:black;
+background-color: #ebebeb;
+}
+
+img{border:10px;
+   border-style: dotted;
+    border-color:pink;
+   }
+
+p{font-family: sans-serif;
+ Border-style:solid;
+ border-color:#a290a7
+ }
+
+ul{font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color:#ffe0ee;
+   border:10px;
+   border-style: double;
+  border-color:white;
+  }
+
+ol{font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color: #eacdf4;
+  border:5px;
+  border-style: dashed;
+  border-color:white;
+  }
+
+a{
+  border:10px;
+ border-style:solid;
+ border-color:white;
+}
+
+
+
+
+
+
+
+
+
